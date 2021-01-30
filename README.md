@@ -1,5 +1,6 @@
 # Unity-ARFoundation-echoAR-demo-Body-Occlusion
 Simple human body occlusion demo with Unity, AR Foundation, and echoAR. This demo is based on https://github.com/dilmerv/UnityARFoundationEssentials. 
+
 Notice: this demo requires an iOS device with A12 bionic chip running iOS 13.
 
 
@@ -28,4 +29,4 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 
 
 ## Screenshots
-![Demo gif](/media/occlusion demo.gif)
+![Demo gif](/media/occlusionDemo.gif)
